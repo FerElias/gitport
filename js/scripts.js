@@ -42,7 +42,7 @@
       {
         scrollTop: 0
       },
-      300
+      200
     );
   });
 
@@ -55,7 +55,7 @@
       {
         scrollTop: scrollDistance + "px"
       },
-      300
+      200
     );
   });
 
